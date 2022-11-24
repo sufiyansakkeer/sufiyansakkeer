@@ -1,12 +1,12 @@
 Hi 👋 My name is sufiyan sakkeer
 ================================
 
-Python Devoloper
+Flutter Devoloper
 ----------------
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sufiyansakkeer616@gmail.com](mailto:sufiyansakkeer616@gmail.com)
-* 🧠  I'm learning Django
+* 🧠  I'm learning kotlin
 
 ### Skills
 
