@@ -8,7 +8,7 @@ I am a flutter developer
 
 I've been coding for 1 year, I started with HTML, CSS, and javascript . Now I am a flutter developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sufiyansakkeer&label=Profile%20views&color=0e75b6&style=flat" alt="sufiyansakkeer" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufiyansakkeer&label=Profile%20views&color=0e75b6&style=flat" alt="sufiyansakkeer" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sufiyansakkeer" alt="sufiyansakkeer" /></a> </p>
 
