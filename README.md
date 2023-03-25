@@ -8,6 +8,8 @@ I am a flutter developer
 
 I've been coding for 1 year, I started with HTML, CSS, and javascript . Now I am a flutter developer
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sufiyansakkeer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufiyansakkeer&label=Profile%20views&color=0e75b6&style=flat" alt="sufiyansakkeer" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sufiyansakkeer" alt="sufiyansakkeer" /></a> </p> -->
@@ -47,20 +49,7 @@ I've been coding for 1 year, I started with HTML, CSS, and javascript . Now I am
 ![](https://github-readme-stats.vercel.app/api?username=sufiyansakkeer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sufiyansakkeer&theme=dark&hide_border=false)<br/>
 
-
-
-
-
 <a href="http://www.github.com/sufiyansakkeer"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sufiyansakkeer&bg_color=1c1917&color=ffffff&line=10b981&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sufiyansakkeer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sufiyansakkeer&icon=0&color=0)](https://visitcount.itsvg.in)
 
