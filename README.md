@@ -10,7 +10,7 @@ I've been coding for 1 year, I started with HTML, CSS, and javascript . Now I am
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufiyansakkeer&label=Profile%20views&color=0e75b6&style=flat" alt="sufiyansakkeer" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sufiyansakkeer" alt="sufiyansakkeer" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sufiyansakkeer" alt="sufiyansakkeer" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -43,12 +43,25 @@ I've been coding for 1 year, I started with HTML, CSS, and javascript . Now I am
 
 <p align="left"> <a href="https://www.github.com/sufiyansakkeer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sufiyan__._._/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sufiyan-sakkeer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sufiyansakkeer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sufiyansakkeer&theme=dark&hide_border=false)<br/>
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sufiyansakkeer"><img src="https://github-readme-stats.vercel.app/api?username=sufiyansakkeer&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="sufiyansakkeer's GitHub stats" /></a>
 
-<a href="http://www.github.com/sufiyansakkeer"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sufiyansakkeer&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 
 <a href="http://www.github.com/sufiyansakkeer"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sufiyansakkeer&bg_color=1c1917&color=ffffff&line=10b981&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sufiyansakkeer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sufiyansakkeer&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
