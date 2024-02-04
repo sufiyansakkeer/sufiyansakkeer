@@ -1,12 +1,10 @@
-[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)]()
-
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />My name is Sufiyan Sakkeer</h1>
 <p align="center">===================================================================================</p>
 
 I am a flutter developer
 ------------------------
 
-I've been coding for 1 year, I started with HTML, CSS, and javascript . Now I am a flutter developer
+Seasoned Flutter Developer with 1+ years of experience creating cross-platform mobile applications. Proficient in UI/UX design, state management, and API integration. Adept at agile development, ensuring timely delivery of high-quality, visually appealing solutions. Continuously staying updated with the latest Flutter trends and best practices.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sufiyansakkeer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
