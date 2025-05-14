@@ -15,7 +15,7 @@ Seasoned Flutter Developer with 2+ years of experience creating cross-platform m
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 * 🌍  I'm based in india
-* 🖥️  See my portfolio at [My portfolio](http://sufiyansakkeer.github.io/My-Portfolio/)
+* 🖥️  See my portfolio at [My portfolio](https://sufiyan-sakkeer.netlify.app/)
 * ✉️  You can contact me at [sufiyansakkeer616@gmail.com](mailto:sufiyansakkeer616@gmail.com)
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on Flutter Projects
