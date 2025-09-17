@@ -4,7 +4,7 @@
 I am a flutter developer
 ------------------------
 
-Seasoned Flutter Developer with 2+ years of experience creating cross-platform mobile applications. Proficient in UI/UX design, state management, and API integration. Adept at agile development, ensuring timely delivery of high-quality, visually appealing solutions. Continuously staying updated with the latest Flutter trends and best practices.
+I'm a Flutter developer with 2+ years of experience. I create cross-platform apps that are fast, beautiful, and user-friendly. I deliver quality work on time and stay updated with the latest Flutter trends.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sufiyansakkeer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
