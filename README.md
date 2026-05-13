@@ -3,16 +3,16 @@
 </h1>
 
 <h3 align="center">
-  Flutter Developer | FastAPI Backend Learner | Building Scalable Mobile Apps
+  Flutter Developer | Backend Developer | Building Scalable Mobile & Backend Applications
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a Flutter Developer with 2+ years of experience building scalable, production-ready mobile applications.
+I’m a Flutter Developer with 3+ years of experience building scalable, production-ready mobile applications and backend services.
 
-I specialize in developing high-performance cross-platform apps using Flutter, with strong expertise in:
+I specialize in developing high-performance cross-platform applications using Flutter, with strong expertise in:
 
 - BLoC State Management
 - REST API Integration
@@ -20,19 +20,22 @@ I specialize in developing high-performance cross-platform apps using Flutter, w
 - Push Notifications
 - Deep Linking
 - Clean Architecture
+- Performance Optimization
 
-Recently, I started expanding into backend development using **FastAPI** and **Python** to build complete end-to-end solutions.
+I also build backend services using **FastAPI** and **Python**, enabling me to develop complete end-to-end solutions with scalable APIs and maintainable architectures.
 
-I enjoy writing clean, maintainable code and continuously learning modern software engineering practices.
+I focus on writing clean, efficient, and reliable code while building products that deliver smooth user experiences and real-world impact.
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Expertise
 
-- 📱 Advanced Flutter Development
-- ⚡ Backend Development with FastAPI
-- 🧠 System Design & Scalable Architectures
+- 📱 Cross-Platform Mobile App Development
+- ⚡ Backend API Development
+- 🧠 Scalable Application Architecture
+- 🔄 Real-Time Features with WebSockets
 - 🧪 Testing & Performance Optimization
+- ☁️ API Integration & Backend Systems
 
 ---
 
@@ -70,6 +73,22 @@ I enjoy writing clean, maintainable code and continuously learning modern softwa
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40"/>
 </a>
 
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</a>
+
 <a href="https://www.figma.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40"/>
 </a>
@@ -82,9 +101,9 @@ I enjoy writing clean, maintainable code and continuously learning modern softwa
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sufiyansakkeer&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=sufiyansakkeer&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sufiyansakkeer&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sufiyansakkeer&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -106,6 +125,7 @@ I enjoy writing clean, maintainable code and continuously learning modern softwa
 - Backend Development Opportunities
 - Open Source Contributions
 - Freelance Projects
+- Product-Based Engineering Roles
 - Collaboration on Interesting Products
 
 ---
